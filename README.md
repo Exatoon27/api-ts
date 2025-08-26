@@ -51,8 +51,4 @@ Planned improvements include:
    bun run dev
    ```
 
----
-
 💡 *This project is for learning and portfolio purposes. Contributions, suggestions, and feedback are always welcome!*
-
-```
